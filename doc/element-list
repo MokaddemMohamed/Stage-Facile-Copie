@@ -1,0 +1,8 @@
+com.projet.annuaire
+com.projet.annuaire.controller
+com.projet.annuaire.data
+com.projet.annuaire.domain
+com.projet.annuaire.model
+com.projet.annuaire.repository
+com.projet.annuaire.service
+com.projet.annuaire.validator
